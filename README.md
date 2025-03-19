@@ -1,2 +1,2 @@
 # MachineLearningLab
-All Machine Learning Lab assinments, practicals and projects available here.
+All Machine Learning Lab assignments, practicals and projects available here.
